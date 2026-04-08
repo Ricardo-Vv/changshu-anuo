@@ -1,4 +1,4 @@
-# 常熟阿诺（虚构版）技能包
+# 常熟阿诺（加州盛亦陶） Skill 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Style: 诺言诺语](https://img.shields.io/badge/Style-%E8%AF%BA%E8%A8%80%E8%AF%BA%E8%AF%AD-blue)](SKILL.md)
